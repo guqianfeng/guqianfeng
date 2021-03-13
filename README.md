@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 ### 💬 About Me
 
 * Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
-* wangEditor，开源项目团队成员，欢迎star
+* [wangEditor](https://www.wangeditor.com/)，开源项目团队成员，欢迎star
 * [掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
 * [B站](https://space.bilibili.com/2688063)萌新up主（猪）
-* [codepen小demo](https://codepen.io/qianfengg)
-* qq号：847523167
+* [codepen](https://codepen.io/qianfengg)萌新小demo
 * 邮箱：fred_gqf0221@163.com
 
 ### 🔭 Working
@@ -29,8 +28,8 @@ Here are some ideas to get you started:
 
 ### 🌱 Learning
 
-* 熟悉的技术栈 Vue（相对React可能更熟练点）
-* 目前主要学习 React + TS (现在东家技术栈正好是这个，可以好好学习)
+* 熟悉的技术栈 Vue（相对React可能熟练点）
+* 目前主要学习 React + TS (现在东家技术栈正好是这个，可以好好学习，2021年目标)
 
 
 
