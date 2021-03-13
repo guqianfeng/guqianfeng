@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🔭 Working
 
-* Agora Front Developer
+* [Agora](https://www.agora.io/cn/?utm_source=baidu&utm_medium=cpc&utm_campaign=brand) Front Developer
 
 ### 🌱 Learning
 
