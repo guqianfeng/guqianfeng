@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 💬 About Me
 
 * Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
-* [wangEditor](https://www.wangeditor.com/)，开源项目团队成员，欢迎star
+* [wangEditor](https://www.wangeditor.com/)，开源项目团队成员，[欢迎star](https://github.com/wangeditor-team/wangEditor/)
 * [掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
 * [B站](https://space.bilibili.com/2688063)萌新up主（猪）
 * [codepen](https://codepen.io/qianfengg)萌新小demo
