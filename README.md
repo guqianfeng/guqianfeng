@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * [掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
 * [B站](https://space.bilibili.com/2688063)萌新up主（猪）
 * [codepen](https://codepen.io/qianfengg)萌新小demo
-* 副业：微信小程序，使用微信搜索**粤拼歌词**，一个学习粤语歌曲的小程序，欢迎大家使用体验，提出建议
+* 副业：微信小程序，使用微信搜索**粤拼歌词**(一个学习粤语歌的小程序)，也可以通过web官网[粤拼歌词](https://www.jyut6.com/)跳转小程序(需要用手机浏览器打开才能跳转)，欢迎大家使用体验，提出建议
 * 邮箱：fred_gqf0221@163.com
 
 ### 🔭 Working
