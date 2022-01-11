@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 
 ### 🌱 Learning
 
-* 熟悉的技术栈 Vue
+* 熟悉的技术栈 Vue2
 * 目前主要学习 React + TS
+* 工程化相关
 
 
 
