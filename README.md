@@ -15,23 +15,42 @@ Here are some ideas to get you started:
 
 ### 💬 About Me
 
-* Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
-* [wangEditor](https://www.wangeditor.com/)，开源项目团队成员，[欢迎star](https://github.com/wangeditor-team/wangEditor/)
-* [掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
-* [B站](https://space.bilibili.com/2688063)萌新up主（猪）
-* [codepen](https://codepen.io/qianfengg)萌新小demo
-* 副业：微信小程序，使用微信搜索**粤拼歌词**(一个学习粤语歌的小程序)，也可以通过web官网[粤拼歌词](https://www.jyut6.com/)跳转小程序(需要用手机浏览器打开才能跳转)，欢迎大家使用体验，提出建议
-* 邮箱：fred_gqf0221@163.com
+Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
+
+[wangEditor](https://www.wangeditor.com/)，开源项目团队成员，[欢迎star](https://github.com/wangeditor-team/wangEditor/)
+
+[掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
+
+[B站](https://space.bilibili.com/2688063)萌新up主（猪）
+
+[codepen](https://codepen.io/qianfengg)萌新小demo
+
+副业：微信小程序，使用微信搜索**粤拼歌词**(一个学习粤语歌的小程序)，也可以通过web官网[粤拼歌词](https://www.jyut6.com/)跳转小程序(需要用手机浏览器打开才能跳转)，欢迎大家使用体验，提出建议
+
+邮箱：fred_gqf0221@163.com
 
 ### 🔭 Working
 
-* [Agora](https://www.agora.io/cn/?utm_source=baidu&utm_medium=cpc&utm_campaign=brand) Front Developer
+[Agora](https://www.agora.io/cn/?utm_source=baidu&utm_medium=cpc&utm_campaign=brand) Front Developer
 
 ### 🌱 Learning
 
-* 熟悉的技术栈 Vue2
-* 目前主要学习 React + TS
-* 工程化相关
+熟悉的技术栈 Vue2
+
+目前主要学习 React + TS
+
+工程化相关
+
+### 😄 Others
+
+![](https://github-profile-trophy.vercel.app/?username=qianfengg)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianfengg&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=qianfengg)
+
+
+
 
 
 
