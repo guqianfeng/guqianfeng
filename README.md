@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 熟悉的技术栈 
 
-- * Vue2 + Vuex 
-- * Vue3 + Pinia 
-- * React + Redux
-- * TS
+- Vue2 + Vuex 
+- Vue3 + Pinia 
+- React + Redux
+- TS
 
 ### 😄 Others
 
