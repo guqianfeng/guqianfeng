@@ -31,15 +31,16 @@ Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
 
 ### 🔭 Working
 
-[Agora](https://www.agora.io/cn/?utm_source=baidu&utm_medium=cpc&utm_campaign=brand) Front Developer
+保密哈哈
 
 ### 🌱 Learning
 
-熟悉的技术栈 Vue2
+熟悉的技术栈 
 
-目前主要学习 React + TS
-
-工程化相关
+Vue2 + Vuex 
+Vue3 + Pinia 
+React + Redux
+TS
 
 ### 😄 Others
 
