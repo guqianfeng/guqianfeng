@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 
 - 一名持续进步的前端讲师
 
-### 🌱 Learning
-
-熟悉的技术栈 
+### 🌱 Skills
 
 - Vue2 + Vuex 
 - Vue3 + Pinia 
