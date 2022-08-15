@@ -31,16 +31,16 @@ Web前端开发，一个喜欢撸码也喜欢打游戏的咸鱼
 
 ### 🔭 Working
 
-保密哈哈
+一名持续进步的前端讲师
 
 ### 🌱 Learning
 
 熟悉的技术栈 
 
-Vue2 + Vuex 
-Vue3 + Pinia 
-React + Redux
-TS
+* Vue2 + Vuex 
+* Vue3 + Pinia 
+* React + Redux
+* TS
 
 ### 😄 Others
 
