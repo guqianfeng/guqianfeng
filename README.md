@@ -35,10 +35,9 @@ Here are some ideas to get you started:
 
 ### 🌱 Skills
 
-- Vue2 + Vuex 
-- Vue3 + Pinia 
-- React + Redux
-- TS
+- Vue2 + Vuex
+- Vue3 + Pinia + TS
+- React + Redux + TS
 - Vim
 
 ### 😄 Others
