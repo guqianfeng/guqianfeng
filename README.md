@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - Vue3 + Pinia 
 - React + Redux
 - TS
+- Vim
 
 ### 😄 Others
 
