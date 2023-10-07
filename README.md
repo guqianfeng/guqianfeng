@@ -1,5 +1,5 @@
 <!--
-**qianfengg/qianfengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guqianfeng/guqianfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - [掘金](https://juejin.cn/user/976022056999944/posts)萌新作者，欢迎点赞交流
 
-- [B站](https://space.bilibili.com/2688063)萌新up主（猪）
-
 - [codepen](https://codepen.io/qianfengg)萌新小demo
+
+- [B站](https://space.bilibili.com/2688063)萌新up主（猪）
 
 - 邮箱：fred_gqf0221@163.com
 
