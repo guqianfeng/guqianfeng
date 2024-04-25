@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 - 邮箱：fred_gqf0221@163.com
 
-### 🔭 Working
-
-- 一名持续进步的前端讲师
 
 ### 🌱 Skills
 
@@ -38,11 +35,4 @@ Here are some ideas to get you started:
 - React + Redux + TS
 - Vim
 
-### 😄 Others
-
-![](https://github-profile-trophy.vercel.app/?username=guqianfeng)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guqianfeng&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=guqianfeng)
 
