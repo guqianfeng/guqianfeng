@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 - 邮箱：fred_gqf0221@163.com
 
+- 公众号：梅利奥猪猪
+
+- 微信号：Zpp_190512
+
 
 ### 🌱 Skills
 
